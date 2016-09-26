@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Android2.2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ipru_fragment">IpruFragment</string>
+    <string name="title_activity_dummy">DummyActivity</string>
+    <string name="title_activity_fragmenti_pru">FragmentiPru</string>
+    <string name="title_activity_search_by_name">SearchByNameActivity</string>
+    <string name="title_activity_search_by_number">SearchByNumberActivity</string>
+    <string name="gender_prompt">Select</string>
+    <string name="rs">`</string>
+    <string name="rs2">`</string>
+
+    <string-array name="gender_arrays">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="gender_term">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+    <string name="title_activity_output">OutputActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+
+
+
+</resources>
